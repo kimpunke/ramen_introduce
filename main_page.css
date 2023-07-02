@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.menu_bar{
+    width: auto;
+    height: 50px;
+    background-color: lightgray;
+
+}
+.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 60px;
+}
